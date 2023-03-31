@@ -1,0 +1,28 @@
+#tabel-siswa {
+    border-collapse: collapse;
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+    border-width: 1px;
+    border-style: solid;
+    border: black;
+
+    margin: auto;
+}
+
+.link {
+    color: blue;
+    text-decoration: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tabel-siswa h3 {
+    font-size: 32px;
+}
+
+#tabel-siswa td {
+    padding: 25px;
+}
